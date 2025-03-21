@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NeonMigrations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3526f1a0dc25c97e70135b5b121b9632aa3e9bcf")]
 [assembly: System.Reflection.AssemblyProductAttribute("NeonMigrations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NeonMigrations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
