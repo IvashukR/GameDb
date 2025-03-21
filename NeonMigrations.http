@@ -1,0 +1,6 @@
+@NeonMigrations_HostAddress = http://localhost:5293
+
+GET {{NeonMigrations_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
