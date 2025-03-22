@@ -133,3 +133,9 @@
 /home/ivashukrost/NeonMigrations/obj/Debug/net8.0/NeonMigrations.pdb
 /home/ivashukrost/NeonMigrations/obj/Debug/net8.0/NeonMigrations.genruntimeconfig.cache
 /home/ivashukrost/NeonMigrations/obj/Debug/net8.0/ref/NeonMigrations.dll
+/home/ivashukrost/NeonMigrations/bin/Debug/net8.0/out/web.config
+/home/ivashukrost/NeonMigrations/bin/Debug/net8.0/out/appsettings.Development.json
+/home/ivashukrost/NeonMigrations/bin/Debug/net8.0/out/appsettings.json
+/home/ivashukrost/NeonMigrations/bin/Debug/net8.0/out/NeonMigrations.deps.json
+/home/ivashukrost/NeonMigrations/bin/Debug/net8.0/out/NeonMigrations.runtimeconfig.json
+/home/ivashukrost/NeonMigrations/obj/Debug/net8.0/NeonMigrations.sourcelink.json
